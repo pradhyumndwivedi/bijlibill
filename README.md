@@ -1,5 +1,3 @@
-# bijlibill
-
 <img width="200" height="200" alt="favicon" src="https://github.com/user-attachments/assets/d8a4abf8-75c8-45c3-a7f0-cb02c6d2374e" />
 
 # ⚡ BijliBill – Smart Electricity & Energy Monitoring System
